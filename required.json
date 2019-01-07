@@ -1,5 +1,5 @@
 {
-    "datetime": "2019-01-07 19:40:20",
+    "datetime": "2019-01-07 20:01:32",
     "files": {
         "D3Dcompiler_47.dll": {
             "fsize": 3466856,
@@ -162,5 +162,6 @@
             "hash": "fd4a436733637cb4759cdb024f0c7d891e8075be46f79796077180a9ff488d27"
         }
     },
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "total_size": 46490977
 }
