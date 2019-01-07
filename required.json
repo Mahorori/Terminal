@@ -1,0 +1,166 @@
+{
+    "datetime": "2019-01-07 19:40:20",
+    "files": {
+        "D3Dcompiler_47.dll": {
+            "fsize": 3466856,
+            "hash": "efbdbbcd0d954f8fdc53467de5d89ad525e4e4a9cfff8a15d07c6fdb350c407f"
+        },
+        "Qt5Core.dll": {
+            "fsize": 4654080,
+            "hash": "bc64f8d22e2b2a75a9c4629231a78b0752934b673589ee6ae34927bbc2f200e5"
+        },
+        "Qt5Gui.dll": {
+            "fsize": 4905984,
+            "hash": "ffb7e72b2a1232cedaa0d92d191989a25f9214554c9e9b3ffdbc20dd219a456f"
+        },
+        "Qt5Network.dll": {
+            "fsize": 934912,
+            "hash": "766d6baaa3b2646c64f6e0e30254f71bad0eb10f2eaaea77079a7cfd9646df3a"
+        },
+        "Qt5Svg.dll": {
+            "fsize": 255488,
+            "hash": "5374d18e294e22e01c027fcf468aa0ecb23516ecffa7ffc909ef46293e67aec5"
+        },
+        "Qt5Widgets.dll": {
+            "fsize": 4444160,
+            "hash": "13bdf75b216958caec8e4d1009bbc416f9fea1cde86a12011b36175636eb50f5"
+        },
+        "bearer/qgenericbearer.dll": {
+            "fsize": 38912,
+            "hash": "aa10ffe739bc76abe0a33b79b4704e9f845f687d5e324ad751c0578161e9ccd0"
+        },
+        "bearer/qnativewifibearer.dll": {
+            "fsize": 41472,
+            "hash": "b136156a10626ba79d44e0778b824d8f01d4dccb25d09da64d5da61cd37eb22f"
+        },
+        "iconengines/qsvgicon.dll": {
+            "fsize": 31232,
+            "hash": "94e94a3f0ff5e236f476713cac92c76049815d051d448cd2677112b32179f208"
+        },
+        "imageformats/qgif.dll": {
+            "fsize": 26112,
+            "hash": "f2f6aade12f9f628945b248696d6f71e834622151dae9d907d67f38abda41aad"
+        },
+        "imageformats/qicns.dll": {
+            "fsize": 33280,
+            "hash": "623edf31411d79500b30f6db03ab65e31b86eb369d7fdbed208d5e44dff419f3"
+        },
+        "imageformats/qico.dll": {
+            "fsize": 27648,
+            "hash": "eeda038e329a0f63905cedddfcf0a1a285cc4e755b32ab4d3eea690bddae7bb1"
+        },
+        "imageformats/qjpeg.dll": {
+            "fsize": 243712,
+            "hash": "2df9130cbf1f38430fb6c33f9e6482431bca45b1623fd92a3a29b3d4ec250cde"
+        },
+        "imageformats/qsvg.dll": {
+            "fsize": 21504,
+            "hash": "1a03adaf930457bf29352072bb9ab5bc93903ea0b6f60d3ad3ffdfba7588234d"
+        },
+        "imageformats/qtga.dll": {
+            "fsize": 20992,
+            "hash": "870166f4fa5edc129f02fc4058df51e5f8e205e012c53155593c008426d13d40"
+        },
+        "imageformats/qtiff.dll": {
+            "fsize": 269824,
+            "hash": "1c7348b97aeacdfd24a45951411fe44678711f08e98e34e6871d0e115bb19f00"
+        },
+        "imageformats/qwbmp.dll": {
+            "fsize": 19968,
+            "hash": "77106a729ef5230fd63257f5210f103c9ab9ccdbae252966d6ca9b211ad4e9a5"
+        },
+        "imageformats/qwebp.dll": {
+            "fsize": 380416,
+            "hash": "7ee626ab9990586b0333439842763cb8340f910f0c56385fc665324576822518"
+        },
+        "libEGL.dll": {
+            "fsize": 13824,
+            "hash": "4210ec8ce0b47a607bdbbaf9400c60ba0cd83f39cfc91e9bd3bf07fb614c8ce3"
+        },
+        "libGLESV2.dll": {
+            "fsize": 1983488,
+            "hash": "6da113614c3731f407ee4947f04055b501282e6f2eb945645b9a4baefeff8616"
+        },
+        "opengl32sw.dll": {
+            "fsize": 15995904,
+            "hash": "25ae7577e066fa80519a8f1c314b15cdd22e4a8d3ecd2a36eccc79e40714a91d"
+        },
+        "platforms/qwindows.dll": {
+            "fsize": 1079808,
+            "hash": "bceb78b57edbd791c371266b09ff309d9d257dc6fb52e84a21ee907b57e0c2ad"
+        },
+        "python35.dll": {
+            "fsize": 3122968,
+            "hash": "5c61e8ef9972b9759d95de059681e68815ec29ab0ea08ef32a0684d161d662c9"
+        },
+        "python35.zip": {
+            "fsize": 2257581,
+            "hash": "56112582fe91b1294dcba73a18a8fb635d2dd024b47811d76e6293c563888178"
+        },
+        "translations/qt_ca.qm": {
+            "fsize": 174265,
+            "hash": "6af2c1bc7596f7204a8f34e5b7199a9696faadcd1bc6f7ffd9bc988db3c87205"
+        },
+        "translations/qt_cs.qm": {
+            "fsize": 158455,
+            "hash": "6862ce2bbffe5171dcc67b046e5ae6e2e9984c3e981d64b7fbd4a1fc4763a61e"
+        },
+        "translations/qt_de.qm": {
+            "fsize": 173055,
+            "hash": "1655cf7bef5aca5b433912f3d82a24217d243ef3b2090cc5556fbc069337ce7e"
+        },
+        "translations/qt_en.qm": {
+            "fsize": 23,
+            "hash": "307cef95dd5b36ff215055d427e1885b7fc3650c9224cf76d63056545996ff60"
+        },
+        "translations/qt_fi.qm": {
+            "fsize": 160668,
+            "hash": "3f876e056610e3514632fddc3e2aa006cd3f743f4fbb3c6cad2915b614d141a1"
+        },
+        "translations/qt_fr.qm": {
+            "fsize": 166157,
+            "hash": "7d40eaa90d9094ce548a41482b496ec494396a82361d4f3d031756118ed042d2"
+        },
+        "translations/qt_he.qm": {
+            "fsize": 139222,
+            "hash": "d7836f59ef79314db1f4ab6b76abc283ab2b5d4942d2bc129d620e913e294153"
+        },
+        "translations/qt_hu.qm": {
+            "fsize": 90989,
+            "hash": "d3c07628b68a39691b1ea9175a9cd151489cbc731a57a66c865d62167a5ec0f2"
+        },
+        "translations/qt_it.qm": {
+            "fsize": 161129,
+            "hash": "54bdd9856e6007b443f553f03b5b83bca9f08595bf18d3293663517f04e89333"
+        },
+        "translations/qt_ja.qm": {
+            "fsize": 129904,
+            "hash": "f0ee03c9936b459cc9bdf184df9b7efad98d40ab7b99e89166a42e019a0ec0ea"
+        },
+        "translations/qt_ko.qm": {
+            "fsize": 124101,
+            "hash": "0572429dc3c7f4055343a3f4e28463c505df1c97211d1fb6a7430c145b62a9f2"
+        },
+        "translations/qt_lv.qm": {
+            "fsize": 153598,
+            "hash": "257d1201da42c19c34ea0a5f0dfbba3d438fc273a7d5b5b97cd13196e963ed28"
+        },
+        "translations/qt_pl.qm": {
+            "fsize": 147460,
+            "hash": "74ff7bd4c47e9ab83cc69229031489621aa36dfbb5b94bc24ac82f318c814e3b"
+        },
+        "translations/qt_ru.qm": {
+            "fsize": 157842,
+            "hash": "a45992edbb08e9d0921b5389f6038526ec8d9e401e1cff3eae98539521e7dc22"
+        },
+        "translations/qt_sk.qm": {
+            "fsize": 125753,
+            "hash": "0144819728779d0861859f5451cd5588b2f2def611edeb77b38655d62bdbdf86"
+        },
+        "translations/qt_uk.qm": {
+            "fsize": 158231,
+            "hash": "fd4a436733637cb4759cdb024f0c7d891e8075be46f79796077180a9ff488d27"
+        }
+    },
+    "total_size": 46490977
+}
